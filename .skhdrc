@@ -1,0 +1,8 @@
+ctrl - i : open -a ~/nix-apps/Emacs.app
+ctrl - 0 : open -a ~/nix-apps/kitty.app/Contents/MacOS/kitty
+ctrl - 9 : open -a ~/nix-apps/IntelliJ\ IDEA.app
+ctrl - 7 : open -a ~/nix-apps/rider.app
+ctrl - 9 : open -a ~/nix-apps/IntelliJ\ IDEA.app
+ctrl - 8 : open -a /Applications/Unity/Hub/Editor/2021.3.16f1/Unity.app/
+ctrl - u: open -a /Applications/Google\ Chrome.app
+# ctrl - 7 : open -a /Applications/Slack.app

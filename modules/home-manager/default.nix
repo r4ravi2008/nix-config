@@ -26,6 +26,7 @@
       python3Packages.cfn-lint
       python3Packages.virtualenv
       vscode
+      shell_gpt
     ];
 
     programs.direnv = {

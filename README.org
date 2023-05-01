@@ -1,0 +1,14 @@
+#+title: Readme
+
+* Installation
+* Usage
+* Futures
+** TODO dot files integration
+**** zellij
+**** doom emacs
+**** .zsh using oh-my-zsh
+**** kitty
+** TODO beorg integration
+* Note
+Thanks to @zmer. Their nix example repo helped me get started on my nix darwin flake journey.
+Link [[https://github.com/zmre/mac-nix-simple-example][here]].

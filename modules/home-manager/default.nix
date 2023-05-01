@@ -23,8 +23,9 @@
       colima
       kubectl
       sbt
-      python3Packages.cfn-lint
-      python3Packages.virtualenv
+      python310Packages.cfn-lint
+      python310Packages.python-lsp-server
+      poetry
       vscode
       shell_gpt
     ];
